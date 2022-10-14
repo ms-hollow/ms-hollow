@@ -6,3 +6,10 @@
 🍄 I’m currently learning **C**, **C++**, **Java**, and **Assembly Language**<br/>
 👩‍💻 I'm planning to study **Python** , **Java with mySQL** and **Java with Spring**<br/>
 ✉️ How to reach me: <b><i>ms-hollow@proton.me</i></b><br/>
+
+
+<a href="www.linkedin.com/in/abbegailmilesleonen"> <img align="left" alt="LinkedIn" width="24px" style="padding-right:5px;" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /> </a>
+
+<a href="https://open.spotify.com/user/22iwfdwjhk6tj3bl4ioh4twii?si=187046d34d03493c" > <img align="left" alt="Spotify" width="24px" style="padding-right:5px;" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" /> </a>
+
+<a href="https://discordapp.com/users/573898463058722831" > <img align="left" alt="Discord" width="24px" style="padding-right:5px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" /> </a>
