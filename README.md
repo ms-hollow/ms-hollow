@@ -14,4 +14,4 @@
 
 <a href="https://discordapp.com/users/573898463058722831" > <img align="left" alt="Discord" width="24px" style="padding-right:5px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" /> </a>
 
-<img src = "https://komarev.com/ghpvc/?username=ms-hollowl&color=191919&label=Profile%20Views&style=for-the-badge" align="right"/>
+
