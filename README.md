@@ -4,7 +4,7 @@
 ### Yo! 🤠
 
 🍄 I’m currently learning **C**, **C++**, **Java**, **Python,** and **Assembly Language**<br/>
-👩‍💻 I'm planning to study **Java with mySQL** and **Java with Spring**<br/>
+👩‍💻 I'm figuring out how to be consistent.*<br/>
 ✉️ How to reach me: <b><i>ms-hollow@proton.me</i></b><br/>
 
 
