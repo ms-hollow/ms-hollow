@@ -3,8 +3,8 @@
 # <img src="https://media1.giphy.com/media/TinDDqRSzOYzF01W6B/giphy.gif?cid=790b761165bbed73a41db902ea85d59e70b4ac0fa226457e&rid=giphy.gif&ct=s" align ="center" alt="side img" width="300" height="auto" />
 ### Yo! 🤠
 
-🍄 I’m currently learning **C**, **C++**, **Java**, and **Assembly Language**<br/>
-👩‍💻 I'm planning to study **Python** , **Java with mySQL** and **Java with Spring**<br/>
+🍄 I’m currently learning **C**, **C++**, **Java**, **Python,** and **Assembly Language**<br/>
+👩‍💻 I'm planning to study **Java with mySQL** and **Java with Spring**<br/>
 ✉️ How to reach me: <b><i>ms-hollow@proton.me</i></b><br/>
 
 
